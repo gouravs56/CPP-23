@@ -1,1 +1,1 @@
-###### CPP-23 : c++ practise code files
+###### CPP-23 : c++ practice code files
