@@ -8,7 +8,7 @@ int main()
     // first int for stack list, second to store the list of max from the stack
     stack<pair<int, int>> st;
     while (no_of_querry--) /* no_of_querry to 0 loop*/
-    {
+    { 
         cin >> querry_type;
         switch (querry_type)
         {
