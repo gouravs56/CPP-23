@@ -6,7 +6,7 @@ vector<int> matchingStrings(vector<string> queries, vector<string> strings)
     unordered_map<string, int> map;
     // storing the 'strings' vector into the map
     for (int i = 0; i < strings.size(); i++)
-    {
+    { 
         map[strings[i]]++;
     }
     vector<int> result;
